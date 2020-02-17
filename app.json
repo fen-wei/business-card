@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/inde/inde",
+    "pages/logs/logs",
+    "pages/janli/janli",
+    "pages/xiang/xiang",
+    "pages/qin/qin"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "名片",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "selectedColor":"#4169E1",
+    "list": [
+      {
+        "pagePath": "pages/inde/inde",
+        "text": "名片",
+        "iconPath":"/img/a5.png",
+        "selectedIconPath":"/img/a2.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "项目",
+        "iconPath": "/img/a1.png",
+        "selectedIconPath": "/img/a3.png"
+      },
+      {
+        "pagePath": "pages/janli/janli",
+        "text": "简历",
+        "iconPath": "/img/a.png",
+        "selectedIconPath": "/img/a4.png"
+      }
+    ]
+  },
+  
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

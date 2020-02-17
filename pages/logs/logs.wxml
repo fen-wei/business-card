@@ -1,0 +1,13 @@
+<!--logs.wxml-->
+<view>
+  <view class="xiang1" bindtap="dispath">
+    <image src="/img/a11.png"></image>
+    <text>领挑细选</text>
+    <text>小程序</text>
+  </view>
+  <view class="xiang1" bindtap="dispath1">
+    <image src="/img/a10.png"></image>
+    <text>我柚话说</text>
+    <text>小程序</text>
+  </view>
+</view>

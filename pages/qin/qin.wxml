@@ -1,0 +1,16 @@
+<!--pages/qin/qin.wxml-->
+<!-- <text>pages/qin/qin.wxml</text> -->
+<view>
+  <view class="img1">
+    <image src="/img/a14.png"></image>
+  </view>
+  <view class="img2">
+    <image src="/img/a15.png"></image>
+  </view>
+  <view class="img3">
+    <image src="/img/a16.png"></image>
+  </view>
+   <view class="img4">
+    <image src="/img/a17.png"></image>
+  </view>
+</view>

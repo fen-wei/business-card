@@ -1,0 +1,29 @@
+<!--pages/janli/janli.wxml-->
+<!-- <text>pages/janli/janli.wxml</text> -->
+
+<view>
+  <view class="image">
+    <image src="/img/a6.jpg"></image>
+  </view>
+  <view class="nav">
+    <view class="has">工作经历</view>
+    <view class="has1">
+      <text>2018.03</text>
+      <text>北京科技有限公司</text>
+    </view>
+    <view  class="has1">
+      <text>2016.10-2017.10</text>
+      <text>北京赢美时代科技有限公司</text>
+    </view>
+    <view class="has">教育经历</view>
+    <view  class="has1">
+      <text>2012.09-2016.07</text>
+      <text>山西农业大学信息学院</text>
+    </view>
+    <view  class="has1">
+      <text>2009.09-2012.06</text>
+      <text>山西吕梁一小</text>
+    </view>
+    </view>
+    
+</view>

@@ -1,0 +1,33 @@
+/* pages/qin/qin.wxss */
+.img1{
+  width: 100%;
+  height: 1200rpx;
+}
+.img1 image{
+  width: 100%;
+  height: 1200rpx;
+}
+.img2{
+  width: 100%;
+  height: 1200rpx;
+}
+.img2 image{
+  width: 100%;
+  height: 1200rpx;
+}
+.img3{
+  width: 100%;
+  height: 1200rpx;
+}
+.img3 image{
+  width: 100%;
+  height: 1200rpx;
+}
+.img4{
+  width: 100%;
+  height: 700rpx;
+}
+.img4 image{
+  width: 100%;
+  height: 700rpx;
+}

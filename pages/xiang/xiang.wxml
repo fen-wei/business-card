@@ -1,0 +1,11 @@
+<!--pages/xiang/xiang.wxml-->
+<!-- <text>pages/xiang/xiang.wxml</text> -->
+
+<view>
+  <view class="img1">
+    <image src="/img/a12.png"></image>
+  </view>
+  <view class="img2">
+    <image src="/img/a13.png"></image>
+  </view>
+</view>

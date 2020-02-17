@@ -1,0 +1,21 @@
+.xiang1{
+  width: 100%;
+  height: 500rpx;
+  display: flex;
+  flex-direction: column;
+}
+.xiang1 image {
+  width: 100%;
+  height: 400rpx;
+}
+.xiang1 text:nth-of-type(1){
+  font-size: 40rpx;
+  margin-top: 20rpx;
+  margin-left: 10rpx;
+}
+.xiang1 text:nth-of-type(2){
+  font-size: 30rpx;
+  margin-top: 20rpx;
+  margin-bottom: 20rpx;
+  margin-left: 10rpx;
+}

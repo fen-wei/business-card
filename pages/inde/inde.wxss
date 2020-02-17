@@ -1,0 +1,75 @@
+.image image{
+  width: 100%;
+  height: 500rpx;
+}
+.xiaox{
+  width: 90%;
+  height: 350rpx;
+  position: absolute;
+  top: 400rpx;
+  background: #fff;
+  left: 5%;
+}
+.xiaox .ming{
+  font-size: 55rpx;
+  font-weight: 500;
+  margin-left: 30rpx;
+}
+.xiaox .shou{
+  width: 100%;
+  height: 80rpx;
+  font-size: 30rpx;
+  display: flex;
+  align-items: center;
+  margin-top: 10rpx;
+}
+.xiaox .shou text:nth-of-type(1){
+  width: 100rpx;
+  text-align: center;
+  margin-left: 20rpx;
+}
+.xiaox .shou text:nth-of-type(2){
+  width: 200rpx;
+  margin-left: 40rpx;
+}
+.xiaox .shou button{
+  width: 180rpx;
+  font-size: 30rpx;
+  font-weight: 500;
+  margin-right: 20rpx;
+}
+.nav{
+  width: 100%;
+  height: 280rpx;
+  margin-top: 250rpx;
+  display: flex;
+}
+.nav1{
+  width: 33%;
+  height: 280rpx;
+  text-align: center;
+}
+.nav1 image{
+  width: 150rpx;
+  height: 150rpx;
+  display: block;
+  margin: 0 auto;
+  margin-top: 20rpx;
+}
+.nav1 button{
+  width: 100%;
+  font-size: 30rpx;
+  text-align: center;
+}
+.tap{
+  width: 100%;
+  height: 400rpx;
+  background: #fff;
+  text-align: center;
+}
+.tap image{
+  width: 300rpx;
+  height: 300rpx;
+  border-radius: 50%;
+  margin-top:50rpx;
+}

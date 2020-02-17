@@ -1,0 +1,42 @@
+<view>
+  <view class="image">
+    <image src="/img/a6.jpg"></image>
+  </view>
+  <view class="xiaox">
+    <text class="ming">冯伟</text>
+    <view class="shou">
+      <text>手机</text>
+      <text>18234368477</text>
+      <button bindtap="tapname">拨打</button>
+    </view>
+    <view class="shou">
+      <text>邮箱</text>
+      <text>1245118629@qq.com</text>
+      <button  bindtap='copyText' data-text="{{content}}">复制</button>
+    </view>
+    <view class="shou">
+      <text>职业</text>
+      <text>全栈开发</text>
+      <button   bindtap='copyTexts' data-text="{{contents}}">复制</button>
+    </view>
+  </view>
+
+  <view class="nav">
+    <view class="nav1">
+      <image src="/img/a7.png"></image>
+      <button>生成海报</button>
+    </view>
+    <view class="nav1">
+      <image src="/img/a8.png"></image>
+      <button>保存电话</button>
+    </view>
+    <view class="nav1">
+      <image src="/img/a9.png"></image>
+      <button open-type="share">分享好友</button>
+    </view>
+  </view>
+
+  <view class="tap">
+    <image src="/img/b.jpg"></image>
+  </view>
+</view>

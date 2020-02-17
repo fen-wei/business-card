@@ -1,0 +1,17 @@
+/* pages/xiang/xiang.wxss */
+.img1{
+  width: 100%;
+  height: 1200rpx;
+}
+.img1 image{
+  width: 100%;
+  height: 1200rpx;
+}
+.img2{
+  width: 100%;
+  height: 1200rpx;
+}
+.img2 image{
+  width: 100%;
+  height: 1200rpx;
+}
